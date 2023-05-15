@@ -11,4 +11,4 @@
 
 ### Результат:
 
-![image](https://github.com/AnyaChickenMcnuggets/SeleniumRPAChallenge/assets/44460590/1344af8e-867e-42e6-b037-8d1f34387e84)
+![image](https://github.com/AnyaChickenMcnuggets/SeleniumRPAChallenge/assets/44460590/83b693dd-50d8-4477-87ea-e897639d2801)
